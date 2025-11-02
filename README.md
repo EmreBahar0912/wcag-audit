@@ -6,7 +6,7 @@ De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd
 
 
 ## Brotherhoodhaarlem
-Ik heb een Lighthouse test uitgevoerd op de website van mijn sportschool Brotherhoodhaarlem. De website is bedoeld voor mensen die geïnteresseerd zijn in vechtsporten zoals jiu jitsu, worstelen, thaiboksen en MMA. Op dezee website kun je informatie vinden over deze vechtsporten om te kijken of het wat voor jou is. Daarnaast kun je je ook op deze website inschrijven, kosten bekijken en contact opnemen met Brotherhoodhaarlem.
+Ik heb een WCAG Audit uitgevoerd op de website van mijn sportschool Brotherhoodhaarlem. De website is bedoeld voor mensen die geïnteresseerd zijn in vechtsporten zoals jiu jitsu, worstelen, thaiboksen en MMA. Op dezee website kun je informatie vinden over deze vechtsporten om te kijken of het wat voor jou is. Daarnaast kun je je ook op deze website inschrijven, kosten bekijken en contact opnemen met Brotherhoodhaarlem.
 
 ### Lighthouse resultaat
 <img width="676" height="228" alt="image" src="https://github.com/user-attachments/assets/b8732ef6-52a6-4abe-ac8d-c71542b128c5" />
